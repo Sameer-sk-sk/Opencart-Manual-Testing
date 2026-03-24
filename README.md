@@ -13,8 +13,8 @@ This repository contains the complete manual testing documentation for the **Ope
 
 | Document | Description |
 |----------|-------------|
-| `FRS.docx` | Functional Requirements Specification — defines all features of the OpenCart frontend |
-| `Test_Plan.docx` | Test Plan — covers scope, objectives, strategy, roles, schedule, and risks |
+| `FRS.pdf` | Functional Requirements Specification — defines all features of the OpenCart frontend |
+| `Test_Plan.pdf` | Test Plan — covers scope, objectives, strategy, roles, schedule, and risks |
 | `Test_Scenarios.xlsx` | 31 Test Scenarios mapped to FRS requirements |
 | `Test_Cases.xlsx` | Detailed test cases for all 31 scenarios |
 | `RTM.xlsx` | Requirement Traceability Matrix — maps requirements to test scenarios and test cases |
@@ -39,10 +39,6 @@ This repository contains the complete manual testing documentation for the **Ope
 - Header, Menu, Footer
 - Multi-currency functionality
 
-### ❌ Out of Scope
-- Database Testing
-- API Testing
-- Automation Testing
 
 ---
 
