@@ -5,7 +5,7 @@
 This repository contains the complete manual testing documentation for the **OpenCart Frontend** e-commerce web application. I independently tested all major frontend functionalities including Register, Login, Search, Product Display, Cart, Checkout, and more — covering over 400 test cases across 31 test scenarios.
 
 > **Application Under Test:** [OpenCart Demo](https://demo.opencart.com)
-> **Type:** E-commerce Web Application (PHP + MySQL + Apache)
+> **Type:** E-commerce Web Application
 
 ---
 
